@@ -1,1 +1,1 @@
-# ska-lxd-create-labs-kubeaadm
+# ska-lxd-create-labs-kubeadm
